@@ -54,3 +54,4 @@ pytest -vvv -s tests/
 # pytest --cov
 # open htmlcov/index.html
 ```
+![image](https://user-images.githubusercontent.com/55879630/230197624-d14dae39-0af3-4cf3-b2fe-c5561b997cc8.png)
